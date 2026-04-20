@@ -2,7 +2,7 @@
 
 A console-based Java application that validates whether a given string is a palindrome using various data structures and algorithms.
 
-Problem statement reference: `dd`
+Provided problem statement token: `dd`
 
 **Course:** STEP Bootcamp — Semester 4  
 **Student:** Aryan Shukla
