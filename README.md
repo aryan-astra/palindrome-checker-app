@@ -69,3 +69,7 @@ Replace `UseCase1` with the appropriate UC number (`UseCase2`, `UseCase3`, … `
 - Algorithms: Two-pointer, Fast/Slow pointer, In-place reversal, Recursion
 - Design Pattern: Strategy Pattern
 - Performance analysis using `System.nanoTime()`
+
+## Status
+
+bad
