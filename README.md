@@ -2,6 +2,8 @@
 
 A console-based Java application that validates whether a given string is a palindrome using various data structures and algorithms.
 
+Example palindrome input: `aa`
+
 **Course:** STEP Bootcamp — Semester 4  
 **Student:** Aryan Shukla
 
