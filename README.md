@@ -2,7 +2,7 @@
 
 A console-based Java application that validates whether a given string is a palindrome using various data structures and algorithms.
 
-Issue note: bad2 requirement acknowledged in this branch.
+Issue note: This branch addresses the problem statement "bad2" by explicitly recording it in project documentation.
 
 **Course:** STEP Bootcamp — Semester 4  
 **Student:** Aryan Shukla
